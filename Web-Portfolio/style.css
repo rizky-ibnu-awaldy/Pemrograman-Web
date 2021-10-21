@@ -1,0 +1,45 @@
+.p1{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+.p2{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Open Sans', sans-serif;
+    color:white
+}
+body{
+    min-height: 2000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-image: url(img/background.jpg);
+    background-color: rgb(0, 0, 0);
+}
+#about{
+    padding-top:3rem;
+}
+.container2{
+    padding-top: 3rem;
+
+background-color:#ffffff;
+}
+#projects{
+    padding-top: 6rem;
+    background-image: url(img/background.jpg);
+    background-color:rgb(0, 0, 0);
+}
+.container3{
+    background-color: rgb(0, 0, 0);
+}
+#skills{
+    padding-top: 3rem;
+    
+}
+#pendidikan{
+    padding-top: 6rem;
+    background-image: url(img/background.jpg);
+    background-color:rgb(0, 0, 0)
+}
+#footer{
+    background-image: url(img/background.jpg);
+}
